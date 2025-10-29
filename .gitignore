@@ -1,0 +1,14 @@
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Sensitive files
+*.key
+credentials.json
+
+.DS_Store
+*.ipynb_checkpoints
+.venv
+*.pyc
+__pycache__
