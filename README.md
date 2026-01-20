@@ -1,8 +1,8 @@
 # README
 
-just some random research dump
+research repo for ml/llm mechanics and building fundamentals
 
-currently focusing mostly on llm mechanics (mechinterp) & building fundamentals
+includes a learning system with checkpoint-based interrogation to close the gap between "I can use X" and "I can explain why X exists." see `AGENTS.md` for workflow.
 
 ## UPDATES
 
